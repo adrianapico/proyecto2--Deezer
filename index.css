@@ -1,0 +1,186 @@
+.container{
+    width: 100%;
+    
+   
+}
+
+.logo_deezer img{
+    padding: 4px;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    justify-content: left;
+  
+       
+}
+
+.option-nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+
+}
+
+.nav{
+    background-color: #fff;
+    width: 99%;
+    padding: 4px;
+    
+    display: flex;
+    justify-content: space-around;   
+
+    
+}
+
+.dyp{
+    color: #32323d;
+    font-family:sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    list-style: none;
+    flex-direction: row;
+    display: list-item;
+    position: relative;
+    padding: 10px;
+
+}
+
+.btn-login{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid;
+    border-radius: 35px;
+    color: #2d96c8;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    position: relative;
+    background-color: #fff;
+    padding: 6px 15px 6px 15px;
+
+
+}
+
+.option-nav button{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid;
+    border-radius: 35px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    position: relative;
+    margin: 8px;
+    padding: 6px 15px 6px 15px;
+   
+
+    
+}
+.btn-sing-in{
+    border: 2px solid;
+    border-radius: 35px;
+    color: #fff;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    position: relative;
+    background-color:#2d96c8;
+    padding: 5px;
+    
+
+
+}
+
+body{
+    background: linear-gradient(137deg,#22efcb 15.51%,#2980ff 51.65%,#a125ff 85.09%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+.contenedor{
+    
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    padding: 2rem;
+
+    border: 3px #c6890e solid;
+       
+}
+
+.divofc{
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+
+
+.descuento{
+    background-color:#fff ;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-radius: 35px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    height: 32px;
+    letter-spacing: 2px;
+    margin-right: 5px;
+    align-items: center;
+
+    
+   
+}
+
+
+
+.mensual{
+    background: linear-gradient(69.06deg,#b84fdd -26.76%,#4965f4 44.6%,#2efb74 132.54%);
+    padding: 9px 16px 9px 16px;
+    border-radius: 32px;
+    border-color: #fff;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    
+
+}
+
+.anual{
+    padding: 9px 16px 9px 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.anual div{
+    color: #007fdb;
+    align-items: center;
+}
+
+.DeezerPremium{
+    color: #000;
+    height: 40px;
+    font-size: 40px;
+    width: 700;
+    letter-spacing: -2px;
+    padding: 15px;
+    
+    
+
+    
+    
+
+}
+
